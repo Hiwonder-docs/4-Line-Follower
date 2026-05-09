@@ -4,12 +4,12 @@
    contain the root `toctree` directive.
 
 ===========
-4-Ch Knob Line Follower
+4-Ch Knob Line Follower(IIC)
 ===========
 
 .. toctree::
    :maxdepth: 2
-   :caption: 4-Ch Knob Line Follower
+   :caption: 4-Ch Knob Line Follower(IIC)
 
-
+   docs/1_ROSOrin_User_Manual.md
    Download <https://drive.google.com/drive/folders/1Cxa55U9oZmYZjH0WfJJf3t70Ft92Iopv?usp=sharing>
