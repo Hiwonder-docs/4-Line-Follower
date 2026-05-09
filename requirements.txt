@@ -1,4 +1,4 @@
-﻿actdiag==3.0.0
+actdiag==3.0.0
 alabaster==0.7.16
 anyio==4.4.0
 attrs==21.4.0
