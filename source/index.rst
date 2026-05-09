@@ -4,12 +4,12 @@
    contain the root `toctree` directive.
 
 ===========
-4-Ch Knob Line Follower(IIC)
+4-Ch Knob Line Follower—I2C Version
 ===========
 
 .. toctree::
    :maxdepth: 2
-   :caption: 4-Ch Knob Line Follower(IIC)
+   :caption: 4-Ch Knob Line Follower—I2C Version
 
    docs/1_4-Ch_Line_Follower_Sensor_Overview.md
    docs/2_Arduino_Example.md
